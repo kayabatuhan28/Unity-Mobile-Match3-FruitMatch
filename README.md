@@ -1,6 +1,6 @@
 # Unity-Mobile-Match3-FruitMatch
 
-Gameplay Video Link : https://drive.google.com/file/d/1BthS5N1l31Q6p-swKd4q3yVOzNmUpQSd/view?usp=drive_link
+Gameplay Video Link : https://www.youtube.com/watch?v=SOrJUeA6BGM&list=PLeUQ9Opn9i7PpZXLhEPG_rDb0LjjYapMA&index=3
 
 ------------------------------------------------------------ TR ------------------------------------------------------------
 - Farklı seviye hedefleri (skora ulaşma, hedef meyve toplama, skor + hedef meyve)
