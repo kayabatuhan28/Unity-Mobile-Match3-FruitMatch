@@ -14,7 +14,7 @@ Gameplay Video Link : https://www.youtube.com/watch?v=SOrJUeA6BGM&list=PLeUQ9Opn
 - Boş kalan hücreler için düşme mekaniği
 - Eşleşme sonrası yeni meyve üretimi
 - Skor hesaplama ve ilerleme takibi
-
+ 
 ------------------------------------------------------------ EN ------------------------------------------------------------
 - Different level objectives (reach score, collect target fruits, score + target fruits)
 - Multiple game modes: move limited and time-limited levels
